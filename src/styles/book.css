@@ -1,0 +1,13 @@
+.mbooking-desc{
+    margin-left: 20rem;
+    margin-top: 15rem;
+}
+
+.book-btn {
+    background-color: orange;
+    border: 0;
+    border-radius: 20px;
+    width: 5rem;
+    height: 2.5rem;
+    margin-left: 20rem;
+}

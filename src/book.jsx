@@ -1,3 +1,5 @@
+import "./styles/book.css"
+
 export function Book(){
     return(
         <>

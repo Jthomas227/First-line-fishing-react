@@ -1,0 +1,16 @@
+
+.header {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    display: inline;
+    color: white;
+}
+
+.searchbox{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: inline;
+    color: white; 
+}

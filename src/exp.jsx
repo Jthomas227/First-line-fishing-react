@@ -1,3 +1,5 @@
+import "./styles/exp.css"
+
 export function Experience(){
     return (
         <>
