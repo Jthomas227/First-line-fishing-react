@@ -1,0 +1,18 @@
+.foot{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.foot h4{
+    display: inline-block;
+}
+
+.foot h5{
+    display: inline-block;
+    text-align: right;
+}

@@ -1,6 +1,7 @@
-.menu-description{
-    margin-left: 20rem;
-    margin-top: 15rem;
+.menu {
+    margin-left: 8rem;
+    margin-right: .5rem;
+    padding: .5rem;
 }
 
 .menu-btn {

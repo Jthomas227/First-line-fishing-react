@@ -1,16 +1,17 @@
-
-.header {
+.head {
     margin: 0;
     padding: 0;
     background-color: #000000;
-    display: inline;
     color: white;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: inline-flex;
 }
 
 .searchbox{
     margin: 0;
     padding: 0;
     background-color: black;
-    display: inline;
-    color: white; 
+
 }
